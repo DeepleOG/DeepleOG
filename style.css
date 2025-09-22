@@ -26,7 +26,7 @@
     --color-grid-cell-bg: #34495e;
     --color-grid-item-cell-bg: #c6b8a1;
     --color-grid-header-bg: #A57E58;
-    --color-winner-outline: #f1c40f;
+    --color-winner-outline: #000000;
 
     /* --- Suggestions --- */
     --color-suggestion-item-bg: #65A9D3;
